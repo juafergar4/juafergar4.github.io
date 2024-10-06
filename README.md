@@ -1,6 +1,6 @@
 # juafergar4.github.io
 ### Me llamo Juanjo
-### lista ordenada
+### Lista ordenada
 primero
 segundo 
 tercero
